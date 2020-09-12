@@ -1,11 +1,11 @@
-;;; git-grep.el --- grep/search tools and configuration
+;;; git-grep.el --- Search tools using git grep
 
 ;; Author: Sam Kleinman
 ;; Maintainer: tychoish <garen@tychoish.com>
 ;; Version: 1.0
 ;; Package-Requires: ((projectile "0.10.0"))
 ;; Homepage: https://github.com/tychoish/git-grep/
-;; Keywords: grep search using git-grep
+;; Keywords: matching files grep search using git-grep
 
 ;; This file is not part of GNU Emacs
 
