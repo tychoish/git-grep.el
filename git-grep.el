@@ -4,7 +4,7 @@
 ;; Maintainer: tychoish <garen@tychoish.com>
 ;; Version: 1.0
 ;; Package-Requires: ((projectile "0.10.0"))
-;; Homepage: https://github.com/tychoish/git-grep/
+;; Homepage: https://github.com/tychoish/git-grep.el
 ;; Keywords: matching files grep search using git-grep
 
 ;; This file is not part of GNU Emacs
